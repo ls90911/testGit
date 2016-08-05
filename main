@@ -7,3 +7,4 @@ int main()
   return 0;
   // also add some words
   }
+  // add some words in master to make some confliction
