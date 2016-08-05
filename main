@@ -3,6 +3,7 @@
 int main()
 {
   printf("Hello world\n");
+  // add some words
   return 0;
   // also add some words
   }
